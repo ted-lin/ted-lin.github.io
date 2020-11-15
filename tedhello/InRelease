@@ -1,29 +1,29 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-Date: Sun, 15 Nov 2020 16:17:01 UTC
+Date: Sun, 15 Nov 2020 16:24:00 UTC
 MD5Sum:
  d4604e6902ecde46e279282dc0a765fe              495 Packages
- d768e314b0f5c17444eb863c9acf32f9              637 Packages.gz
- 3bd61bd164cf095226fd14f0559c9339               36 Release
+ 644cd25c25e8a8f856567dee877374be              384 Packages.gz
+ 512c43737cc17c72545e34972336d8ab               36 Release
 SHA1:
  b6b588ed291a0b8f285c72d1495457516caf039b              495 Packages
- 2f6eb2ab71a3034c2c2fb4bd57eec63e6363c8f0              637 Packages.gz
- a1290b6468634b77c6a5fe69beafc775885f81c3               36 Release
+ 519a0df75128983d8e5f6fe0987e08914e1d39bb              384 Packages.gz
+ 2947542e3621ae9ce8ff7b83657af238cae7bbfc               36 Release
 SHA256:
  8ae789fbbb9d0a2f2ac75751bfcb1efa3c6310cf967b3b0b8168094d282c425d              495 Packages
- c36452a70c1aa7220f4eb3e50c5a383af7fe277a2066087cedd2ac4808835f48              637 Packages.gz
- 8eb4ea6916a49aee39501f1974a9e74be77972f54d98b5c7427cc7ac013c3811               36 Release
+ 1fdf42590a36288ce7e7a004fa443b8adbb859b333815a07148e0b2f29b6b651              384 Packages.gz
+ 6eb150f133cc788129e5cd9d0af082de405d185a4fe45ccacd3aff2c3a911a67               36 Release
 SHA512:
  431918f3028a57192ccbaafb80cd7a0b5acf14eeb028ef8655dfc6c6fd16c2b7fa2adbd71d447ec9b393eb57c0b1b7556ff49d373a05961d0189eb6cc2a15fa7              495 Packages
- 0d5159be83ca43be4f2a7cd9bd7ac329158c1b4f61eb9abe48d294018db599a1287852a429310d4c0514f8baac8a4241fe8b2068f7259698c8ec2f03a1018640              637 Packages.gz
- ee862bf6134b0892723c98cb269274697536392f0dc80add12456988684f37629bd67c5ee3a744ef728777448b4cde4975d03d6e05b5641d32f35814dd3fc6a0               36 Release
+ 56e858dae790fd0dce3ff9c8624ae28c57783e670cee1c3d7e652b354a3bb91862ff3ac16015e46fc89d26f1104ec5de28a9c4227ba96b2165904d22b3605c4e              384 Packages.gz
+ 023c4a96e052d71cd70b46aef6fc5e22c544f5683f6e00a2f2b7c2b3fb575c7541a43c4c40b220e4b91372e01d864e0f76a8c76612a1a748f93403d3035b0e44               36 Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iJwEAQECAAYFAl+xVK4ACgkQ0cwa68uhjUxLmgQAnmd7khJBYA+T5fD1XPX1vJrl
-XMHh+TgqQCkXhCm8CfXCZaz78mF0aAGz9c7Nd4zduifxuC8Rv4SuE+Xml/tQ2iXN
-EuuCOFHk3YF03rTF89KttnRGOXbph6vMnQJgHkbgwVSWn1i4Ujzo+dY686scD7b9
-UFp8IpSGylT6kX5H0Gg=
-=R35t
+iJwEAQECAAYFAl+xVk0ACgkQ0cwa68uhjUzX9gQAp+TSzh/zqAgBpvwzuq607ilr
+g0wlr1i1yinrDFGUFGo16+b31/YvUR0IOPFq0Fvzh+R+hT+7pgYoS970pEMbmj3z
+vvobCFzLKVwbMHIrCxDop2VD63QOBP5vkl0Qa0pX8hkqaV4tDqLXFp86gNRUaFAq
+L62VDMKQRU4rWgPyq5Y=
+=BDVe
 -----END PGP SIGNATURE-----
