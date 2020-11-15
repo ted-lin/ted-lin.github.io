@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 # See debian/rules if you prefer the new dh syntax.
-package = hello
+package = tedhello
 
 clean:
 	rm -f build

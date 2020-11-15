@@ -4,14 +4,11 @@ Version: 1.0
 Architecture: all
 Maintainer: Santiago Vila <sanvila@debian.org>
 Filename: ./tedhello_1.0.deb
-Size: 515114
-MD5sum: 0dc6891f7fff7e3662fb9595f9626871
-SHA1: 25cbba545ab191e106a431ddd7b44f5dba0599d4
-SHA256: 6ab573b28a8c8c3e41b56fea2deac2908f0276b0ee8280fe6f765fd64d28a771
+Size: 515006
+MD5sum: 691ff6149da00c75e9c92dfe9fbe4166
+SHA1: 503ec358fc011edbd5d68f537c8478b5e9bac3cd
+SHA256: bb8199f3ba67917d522056ed22c6c268025be62426fed518d7c97fb85507c2be
 Section: devel
 Priority: optional
-Homepage: http://www.gnu.org/software/hello/
 Description: test for demonstration
-Build-Depends: debhelper-compat (= 9)
-Standards-Version: 4.3.0
 
