@@ -1,27 +1,17 @@
 Package: tedhello
 Source: tedhello
-Version: 0.1
-Architecture: any
+Version: 1.0
+Architecture: all
 Maintainer: Santiago Vila <sanvila@debian.org>
-Conflicts: hello-traditional
-Breaks: hello-debhelper (<< 2.9)
-Replaces: hello-traditional, hello-debhelper (<< 2.9)
-Filename: ./tedhello.deb
-Size: 515302
-MD5sum: f0af78ce561121e47129e05b67d2c668
-SHA1: 2fbdf806f79d065782fb2b31851cb5a2e22d218a
-SHA256: 58e178dbb4c492fb5381e6c3db6fd3d3abc91a26c81fbb4d8c90e1c3261a9321
+Filename: ./tedhello_1.0.deb
+Size: 515114
+MD5sum: 0dc6891f7fff7e3662fb9595f9626871
+SHA1: 25cbba545ab191e106a431ddd7b44f5dba0599d4
+SHA256: 6ab573b28a8c8c3e41b56fea2deac2908f0276b0ee8280fe6f765fd64d28a771
 Section: devel
 Priority: optional
 Homepage: http://www.gnu.org/software/hello/
-Description: example package based on GNU hello
- The GNU hello program produces a familiar, friendly greeting.  It
- allows non-programmers to use a classic computer science tool which
- would otherwise be unavailable to them.
- .
- Seriously, though: this is an example of how to do a Debian package.
- It is the Debian version of the GNU Project's `hello world' program
- (which is itself an example for the GNU Project).
+Description: test for demonstration
 Build-Depends: debhelper-compat (= 9)
 Standards-Version: 4.3.0
 
