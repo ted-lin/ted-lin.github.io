@@ -1,15 +1,15 @@
-Source: ted-hello
+Source: hello
 Section: devel
 Priority: optional
 Maintainer: Santiago Vila <sanvila@debian.org>
 Standards-Version: 4.3.0
 Build-Depends: debhelper-compat (= 9)
 Homepage: http://www.gnu.org/software/hello/
-Rules-Requires-Root: no
-
-Package: ted-hello
+#Rules-Requires-Root: no
+Package: hello
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Version: 0.1
+#Depends: ${shlibs:Depends}, ${misc:Depends}
 Conflicts: hello-traditional
 Replaces: hello-traditional, hello-debhelper (<< 2.9)
 Breaks: hello-debhelper (<< 2.9)
@@ -21,3 +21,4 @@ Description: example package based on GNU hello
  Seriously, though: this is an example of how to do a Debian package.
  It is the Debian version of the GNU Project's `hello world' program
  (which is itself an example for the GNU Project).
+
