@@ -1,4 +1,4 @@
-Source: hello
+Source: ted-hello
 Section: devel
 Priority: optional
 Maintainer: Santiago Vila <sanvila@debian.org>
@@ -7,7 +7,7 @@ Build-Depends: debhelper-compat (= 9)
 Homepage: http://www.gnu.org/software/hello/
 Rules-Requires-Root: no
 
-Package: hello
+Package: ted-hello
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Conflicts: hello-traditional
