@@ -8,5 +8,5 @@
 	dh $@
 
 override_dh_auto_install:
-	mkdir -p debian/hello/usr/bin
-	install -T testing.sh debian/hello/usr/bin/testing.sh
+	mkdir -p debian/testhello/usr/bin
+	install -T testing.sh debian/testhello/usr/bin/testing.sh

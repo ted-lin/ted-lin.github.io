@@ -1,0 +1,14 @@
+Package: testhello
+Version: 0.10
+Architecture: all
+Maintainer: ted lin <m983040031@gmail.com>
+Installed-Size: 11
+Filename: ./testhello.deb
+Size: 1252
+MD5sum: 5bb5c6d05741e8ade3a10939bb7dd342
+SHA1: 92d4c418d5fe6e324b29a1e91c6f3e56353d1715
+SHA256: 2e6c5257fcca4a6b6212d6c64b5d6671febce55753c6b58b449794307cdbd015
+Section: admin
+Priority: optional
+Description: test demonstration
+

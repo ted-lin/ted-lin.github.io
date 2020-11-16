@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Mon, 16 Nov 2020 11:09:00 +0800
+Source: testhello
+Binary: testhello
+Architecture: source all
+Version: 0.10
+Distribution: unstable
+Urgency: low
+Maintainer: ted lin <m983040031@gmail.com>
+Changed-By: ted lin <m983040031@gmail.com>
+Description:
+ testhello  - test demonstration
+Changes:
+ testhello (0.10) unstable; urgency=low
+ .
+   [ ted lin]
+   * Initial release.
+   * for testing.
+Checksums-Sha1:
+ 7343918a7b434ca1a4c89740cff0cae9d900aa17 502 testhello_0.10.dsc
+ a9198c96c5f281ca7efc31271b2bf2841da3eea2 7279 testhello_0.10.tar.gz
+ ca1e396666cb7c4aa1e86ddfb76a7cc8c31870f2 1248 testhello_0.10_all.deb
+ 10634ab69d329c3d3d2447e29ff7eeaa12495cd1 5666 testhello_0.10_amd64.buildinfo
+Checksums-Sha256:
+ 75c43acc3e9437ac569b12857f15ed05ea3a7fd860f4e5c5192eb29b5edc58c6 502 testhello_0.10.dsc
+ 24da87e9a04193dd2793e8f23ec8c6f0870d957ba1c23fbca03037c9336be32f 7279 testhello_0.10.tar.gz
+ 919d87318cd778d5f2821641745790d82b6a4a53dff204516697c18dc81870e1 1248 testhello_0.10_all.deb
+ 2482892e8095456c45d55f34035b9df76161f07a40d52f773d3f2cc2eb21bd28 5666 testhello_0.10_amd64.buildinfo
+Files:
+ 99f6a90a79acd02a68260f5a64a74b38 502 admin optional testhello_0.10.dsc
+ 99031052d18ea55aa94abd59714e4f3d 7279 admin optional testhello_0.10.tar.gz
+ 28e64142dd11475adcf5a9a8f2c3f2bb 1248 admin optional testhello_0.10_all.deb
+ aa5f30a71a5c1889b9a929fe407be52d 5666 admin optional testhello_0.10_amd64.buildinfo

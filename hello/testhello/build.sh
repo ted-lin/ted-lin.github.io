@@ -1,2 +1,2 @@
 dpkg-buildpackage -us -uc
-dpkg -b debian/hello
+dpkg -b debian/testhello

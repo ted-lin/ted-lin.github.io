@@ -1,8 +1,8 @@
-Package: hello
+Package: testhello
 Version: 0.10
 Architecture: all
 Maintainer: ted lin <m983040031@gmail.com>
-Installed-Size: 13
+Installed-Size: 11
 Section: admin
 Priority: optional
 Description: test demonstration

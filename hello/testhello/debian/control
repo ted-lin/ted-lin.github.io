@@ -1,11 +1,11 @@
-Source: hello
+Source: testhello
 Section: admin
 Priority: optional
 Maintainer: ted lin <m983040031@gmail.com>
 Build-Depends: debhelper (>= 11.0.0)
 Standards-Version: 4.1.5
 
-Package: hello
+Package: testhello
 Architecture: all
 #Depends: bsdmainutils,
 #         e2fsprogs,
