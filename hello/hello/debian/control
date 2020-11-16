@@ -1,0 +1,17 @@
+Source: hello
+Section: admin
+Priority: optional
+Maintainer: ted lin <m983040031@gmail.com>
+Build-Depends: debhelper (>= 11.0.0)
+Standards-Version: 4.1.5
+
+Package: hello
+Architecture: all
+#Depends: bsdmainutils,
+#         e2fsprogs,
+#         fdisk | util-linux (<< 2.29.2-3~),
+#         gawk,
+#         ${misc:Depends},
+#         ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: test demonstration

@@ -1,15 +1,12 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: https://github.com/arvidjaar/bootinfoscript
+Source: https://github.com/ted-lin/hello
 
 Files: *
-Copyright: 2009-2010, Ulrich Meierfrankenfeld
-           2011 Gert Hulslemans
-           2015-2017 Andrei Borzenkov
+Copyright: 2020-2020, ted lin
 License: Expat
 
 Files: debian/*
-Copyright: 2011, Alexander Wirt <formorer@debian.org>
-           2011, Christian Hofstaedtler <zeha@debian.org>
+Copyright: 2020, ted lin <m983040031@gmail.com>
 License: Expat
 
 License: Expat

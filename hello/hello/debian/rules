@@ -8,5 +8,5 @@
 	dh $@
 
 override_dh_auto_install:
-	mkdir -p debian/boot-info-script/usr/sbin
-	install -T bootinfoscript debian/boot-info-script/usr/sbin/bootinfoscript
+	mkdir -p debian/hello/usr/bin
+	install -T testing.sh debian/hello/usr/bin/testing.sh
