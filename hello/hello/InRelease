@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Mon, 16 Nov 2020 03:27:28 +0000
+MD5Sum:
+ 8d7bd557a985abebfbd48fc2ffb76a42              377 Packages
+ f68fc9c1735da9ac8450494196b53cad              308 Packages.gz
+ b1f1427b01e61b59f055290dc3b9c99d               38 Release
+SHA1:
+ aa3833831c45827a9f479c2351c3851f1ca37792              377 Packages
+ d9e788b19b4d89e7d19028ea68888ab9363c48dd              308 Packages.gz
+ 69231040a2dd09874f3177287e702acab9ba8f36               38 Release
+SHA256:
+ 3acc149ac326213c5650332a1abe9ba7b8d3dbdff17b5add5b34f1bf1d50be26              377 Packages
+ 90bb1d516e0b8868843c53bd9b6a5257b0b4ff12c4c54b5f9112f8123359d893              308 Packages.gz
+ d91a860df0ae16c2df6d58ecded42ad62fbb63f5a333a742e34e45604bb5af56               38 Release
+SHA512:
+ 45366c4ccf1dc5ae31316cb17261d311f5c3e8438ec5f3971c5ed162be7ed15359836ee6fb5c7a0a36bd280d25304ca32ef8ceb265b8cca2257a0a8290f48eaf              377 Packages
+ 294f97bd608524bd242d793f0f8f0416d44668eadcd11eb4f6cdf9412e9465cd2514c5f9d08fd7fbcc4c411c43d657882e74cf6b5f10e4409581014866fa8b4a              308 Packages.gz
+ 2b51a2b7e8620fa98d135e85bc903b5599e9dea819f5d722619657ff2550e4e001f27ea89d136c5180a8ff1ee28f1f84c1480cce3db5474eb56a3ff5c58c0053               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQHJBAEBCgAzFiEE87qeIwq0qElmOcBenLclz5sA5Y4FAl+x8aAVHG05ODMwNDAw
+MzFAZ21haWwuY29tAAoJEJy3Jc+bAOWOGncL/jxYOG+eZ6AJDBwzAtHLmhsF7ESs
+nn+1z0ZOv6eE/8wnR4ydJ51Je0tcuJfqgaoIPgWKywhXd9EOF3bdCw82H/w8hW8M
+Y1tNwtrcyzvlb9PoZFmn9iB2ARVPPgyn1ofOB0nsR7qRYzoizkQ1t4WXitza5s/b
+2YB2HsVmamflbv7SyuD744BR3OWM3xM9iytonZcRpD/tLqnQ8AKr1qS+xc9IRMAg
+qCRdtKYaelGx7K01Rg49VYMUGcLFElXhV+hEGKPxdOnTsEkneLGc74guP+L8Doxs
+x1PrHcowR86aUDe51A9ueDJB2lSoOjKcL/vL0lpdiAwEz3vigVF2ObjQO7GCrUp1
+a8PJ2SXch+tlSMLMk35i4ub2y8n/3Mc6purg06osXi7Dw5Skikgct6G0Dqbew60o
+Ln1KNi9Watu8safYzHFlHHV1QrmCTkmYXsRxp+ERGhaRVMqVfVpdC7DDi7v7rErS
+VYo6c+BN4CKApOT0EHha8yTQUqqOrzyWbw+f2g==
+=w5tN
+-----END PGP SIGNATURE-----
