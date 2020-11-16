@@ -1,0 +1,8 @@
+Package: hello
+Version: 0.10
+Architecture: all
+Maintainer: ted lin <m983040031@gmail.com>
+Installed-Size: 13
+Section: admin
+Priority: optional
+Description: test demonstration

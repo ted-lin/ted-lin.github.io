@@ -1,0 +1,4 @@
+#!/bin/bash -x
+
+echo "this is a test from ted"
+echo "current stage: preinst"

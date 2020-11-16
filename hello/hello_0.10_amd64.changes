@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Mon, 16 Nov 2020 11:09:00 +0800
+Source: hello
+Binary: hello
+Architecture: source all
+Version: 0.10
+Distribution: unstable
+Urgency: low
+Maintainer: ted lin <m983040031@gmail.com>
+Changed-By: ted lin <m983040031@gmail.com>
+Description:
+ hello      - test demonstration
+Changes:
+ hello (0.10) unstable; urgency=low
+ .
+   [ ted lin]
+   * Initial release.
+   * for testing.
+Checksums-Sha1:
+ 3bdbc67aae4e5ff35e344cff8f5df3bcbd55fba6 478 hello_0.10.dsc
+ 5648f9aeb92ac7cd79157e7f060e5db2bce29a1c 1943 hello_0.10.tar.gz
+ 56b28b7f391cead758bde5dea19b06a345528189 2052 hello_0.10_all.deb
+ 9a12d160e7987d3aba243325d39416cd5547766d 5634 hello_0.10_amd64.buildinfo
+Checksums-Sha256:
+ 2d7b2edfee4adf3e914c24344522a6da071711381ea6a35ab5895ede2ad8ca80 478 hello_0.10.dsc
+ 0d127a5601ea6eaa9b790d8b28dcd824b93834ba9d14f96c47490c0e98b95028 1943 hello_0.10.tar.gz
+ 43c7f0d6a34a25d12dfd45b5202da6da1ac92235df652c1ca7f28595fecb991f 2052 hello_0.10_all.deb
+ 85926a9159b957e10d35d9f76037d3e4f2487c48f83c1372778ad4c8003231d0 5634 hello_0.10_amd64.buildinfo
+Files:
+ bf458ec25cd79f25c8262da95020dd73 478 admin optional hello_0.10.dsc
+ c9ce19e84b5fa00b7d906a400c01f364 1943 admin optional hello_0.10.tar.gz
+ 2320636d1fb0742ae68355145a5af97b 2052 admin optional hello_0.10_all.deb
+ 5babc50b2cfe3d334f2a4d2250fc92df 5634 admin optional hello_0.10_amd64.buildinfo
