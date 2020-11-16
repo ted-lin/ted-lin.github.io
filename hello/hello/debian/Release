@@ -1,0 +1,17 @@
+Date: Mon, 16 Nov 2020 03:41:38 +0000
+MD5Sum:
+ f0e736f6e17666fbfe11b2f01cdfa3c3              370 Packages
+ b2f207c62b9ccc40d39bc689eb1dfa9d              304 Packages.gz
+ 7b261b39079183c2d52e2ccad90f1801               38 Release
+SHA1:
+ ba4f99b1d1a01416d05f8d6d4345aeb9fdb47f60              370 Packages
+ d32535c7d6d595d641bbd8b9e0b157a4a714f6d3              304 Packages.gz
+ b9acc560a8d61f2d4c21de5c9f5957ed40fde8dd               38 Release
+SHA256:
+ f4c2df3e26e83eaacffc712bde95f43b4ed551fb47f793c7249de6fb45979ed3              370 Packages
+ b7b6fe3c7ae2db5cdeee2d82333fc76842c713fae17fb564d1164bb5b2f76531              304 Packages.gz
+ 42890688fda664864060ee372d1c162dcbf47ec6d34b49184030aa5c6c5fd91d               38 Release
+SHA512:
+ 3c1a4a539db98040cb60be2abd9a581abdcfb7640751a836fbc73f2cd2839aff26b8982e669f0c8712723fdf394ff97fe6759bd0244ec1355c195613f856f0d0              370 Packages
+ 0d6ebaa4d97f5be665a4858b555607d1c5f0156c8fb119980eef390ef69cd222ae5b4f794263419e0909c287c73ebfbb600508487517c99f4835e5833c60e2af              304 Packages.gz
+ 79f3dc01fddbdd3bf6d40170c212f25aac9ef010b49af8deb9a3fc3eea9ed09f9d2fbc0cd32c364e9699615633165f86489acae96c2c8bff89c9e5fcb0fe5de3               38 Release

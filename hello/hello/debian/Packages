@@ -1,0 +1,14 @@
+Package: hello
+Version: 0.10
+Architecture: all
+Maintainer: ted lin <m983040031@gmail.com>
+Installed-Size: 13
+Filename: ./hello.deb
+Size: 2052
+MD5sum: ec817752eea0b8f23f8c272427e99001
+SHA1: 9d0176e37ebb547dcd1b17caf86571f0851c4cbe
+SHA256: 5d45f9fee160e62b7ecb5ab322bbf5bd0e75a3eeb1dc5ad26aa6a4801ef0726e
+Section: admin
+Priority: optional
+Description: test demonstration
+
