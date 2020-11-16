@@ -4,17 +4,17 @@ Binary: hello
 Architecture: all source
 Version: 0.10
 Checksums-Md5:
- bf458ec25cd79f25c8262da95020dd73 478 hello_0.10.dsc
- 2320636d1fb0742ae68355145a5af97b 2052 hello_0.10_all.deb
+ aef1888a8f92eba22e8c15382a48fdac 481 hello_0.10.dsc
+ fe031f7e4b8c165dd505ed23bddec94f 2044 hello_0.10_all.deb
 Checksums-Sha1:
- 3bdbc67aae4e5ff35e344cff8f5df3bcbd55fba6 478 hello_0.10.dsc
- 56b28b7f391cead758bde5dea19b06a345528189 2052 hello_0.10_all.deb
+ cbd1b58bd4241c2b9f1df63903a1da792ff8e75c 481 hello_0.10.dsc
+ 7876c947e0c3ce3a076308e5a345f40a0ad97d3d 2044 hello_0.10_all.deb
 Checksums-Sha256:
- 2d7b2edfee4adf3e914c24344522a6da071711381ea6a35ab5895ede2ad8ca80 478 hello_0.10.dsc
- 43c7f0d6a34a25d12dfd45b5202da6da1ac92235df652c1ca7f28595fecb991f 2052 hello_0.10_all.deb
+ 6d8aa9e2603d62f1f89431ec2700aaa1ed44c7b77d890f1e63baa0f7f09868eb 481 hello_0.10.dsc
+ fe92d8d69cfbdf81452d9ad8b01d2a88d61f609a2ba8418d6405ceb271390f4e 2044 hello_0.10_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 16 Nov 2020 11:06:54 +0800
+Build-Date: Mon, 16 Nov 2020 11:52:08 +0800
 Installed-Build-Depends:
  autoconf (= 2.69-11),
  automake (= 1:1.15.1-3ubuntu2),

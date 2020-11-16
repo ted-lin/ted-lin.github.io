@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 11.0.0)
 Package-List:
  hello deb admin optional arch=all
 Checksums-Sha1:
- 5648f9aeb92ac7cd79157e7f060e5db2bce29a1c 1943 hello_0.10.tar.gz
+ c8aa2ff132184d464ebcf21759f85e6ba379dba2 10528 hello_0.10.tar.gz
 Checksums-Sha256:
- 0d127a5601ea6eaa9b790d8b28dcd824b93834ba9d14f96c47490c0e98b95028 1943 hello_0.10.tar.gz
+ d854f64fb4c97e147c0eb26ee4198896b2c2aaed102498bdb0bfe135e8e7ed49 10528 hello_0.10.tar.gz
 Files:
- c9ce19e84b5fa00b7d906a400c01f364 1943 hello_0.10.tar.gz
+ 5c216d0a1a4ec4be62110262471a8e39 10528 hello_0.10.tar.gz

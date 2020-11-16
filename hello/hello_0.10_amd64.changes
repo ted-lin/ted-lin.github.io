@@ -17,17 +17,17 @@ Changes:
    * Initial release.
    * for testing.
 Checksums-Sha1:
- 3bdbc67aae4e5ff35e344cff8f5df3bcbd55fba6 478 hello_0.10.dsc
- 5648f9aeb92ac7cd79157e7f060e5db2bce29a1c 1943 hello_0.10.tar.gz
- 56b28b7f391cead758bde5dea19b06a345528189 2052 hello_0.10_all.deb
- 9a12d160e7987d3aba243325d39416cd5547766d 5634 hello_0.10_amd64.buildinfo
+ cbd1b58bd4241c2b9f1df63903a1da792ff8e75c 481 hello_0.10.dsc
+ c8aa2ff132184d464ebcf21759f85e6ba379dba2 10528 hello_0.10.tar.gz
+ 7876c947e0c3ce3a076308e5a345f40a0ad97d3d 2044 hello_0.10_all.deb
+ 6872a200e87b41fe44ce57a83ff279944af4f386 5634 hello_0.10_amd64.buildinfo
 Checksums-Sha256:
- 2d7b2edfee4adf3e914c24344522a6da071711381ea6a35ab5895ede2ad8ca80 478 hello_0.10.dsc
- 0d127a5601ea6eaa9b790d8b28dcd824b93834ba9d14f96c47490c0e98b95028 1943 hello_0.10.tar.gz
- 43c7f0d6a34a25d12dfd45b5202da6da1ac92235df652c1ca7f28595fecb991f 2052 hello_0.10_all.deb
- 85926a9159b957e10d35d9f76037d3e4f2487c48f83c1372778ad4c8003231d0 5634 hello_0.10_amd64.buildinfo
+ 6d8aa9e2603d62f1f89431ec2700aaa1ed44c7b77d890f1e63baa0f7f09868eb 481 hello_0.10.dsc
+ d854f64fb4c97e147c0eb26ee4198896b2c2aaed102498bdb0bfe135e8e7ed49 10528 hello_0.10.tar.gz
+ fe92d8d69cfbdf81452d9ad8b01d2a88d61f609a2ba8418d6405ceb271390f4e 2044 hello_0.10_all.deb
+ 0bed53fb955125c42885162dd21f9bd43213f3c6f95ca22f6fe079a380306bab 5634 hello_0.10_amd64.buildinfo
 Files:
- bf458ec25cd79f25c8262da95020dd73 478 admin optional hello_0.10.dsc
- c9ce19e84b5fa00b7d906a400c01f364 1943 admin optional hello_0.10.tar.gz
- 2320636d1fb0742ae68355145a5af97b 2052 admin optional hello_0.10_all.deb
- 5babc50b2cfe3d334f2a4d2250fc92df 5634 admin optional hello_0.10_amd64.buildinfo
+ aef1888a8f92eba22e8c15382a48fdac 481 admin optional hello_0.10.dsc
+ 5c216d0a1a4ec4be62110262471a8e39 10528 admin optional hello_0.10.tar.gz
+ fe031f7e4b8c165dd505ed23bddec94f 2044 admin optional hello_0.10_all.deb
+ f22a1d66753bc013b6848e4ac9394c55 5634 admin optional hello_0.10_amd64.buildinfo
